@@ -1,0 +1,96 @@
+{
+  "project": "Roblox Dominus Encyclopedia",
+  "last_updated": "2024",
+  "items": [
+    {
+      "name": "Dominus Empyreus",
+      "release_date": "January 24, 2010",
+      "original_price": 13337,
+      "stock": 26,
+      "latin_meaning": "Heavenly / Fiery",
+      "rarity": "Legendary",
+      "description": "The first Dominus ever created. Symbol of the ultimate status."
+    },
+    {
+      "name": "Dominus Frigidus",
+      "release_date": "March 24, 2011",
+      "original_price": 39000,
+      "stock": 26,
+      "latin_meaning": "Cold / Chilly",
+      "rarity": "Legendary",
+      "description": "Ice-themed hood designed by a contest winner."
+    },
+    {
+      "name": "Dominus Infernus",
+      "release_date": "July 20, 2012",
+      "original_price": 26000,
+      "stock": 26,
+      "latin_meaning": "Hellish / Infernal",
+      "rarity": "Legendary",
+      "description": "A dark, fire-themed hood with glowing red eyes."
+    },
+    {
+      "name": "Dominus Astra",
+      "release_date": "June 24, 2014",
+      "original_price": 75000,
+      "stock": 26,
+      "latin_meaning": "Of the Stars",
+      "rarity": "Mythical",
+      "description": "The only Dominus with a star/space animated texture."
+    },
+    {
+      "name": "Dominus Messor",
+      "release_date": "October 26, 2013",
+      "original_price": 31337,
+      "stock": "Limited Unique",
+      "latin_meaning": "Reaper / Harvester",
+      "rarity": "Epic",
+      "description": "Halloween-themed Dominus with a skeletal aesthetic."
+    },
+    {
+      "name": "Dominus Vespertilio",
+      "release_date": "October 31, 2014",
+      "original_price": 45000,
+      "stock": "Limited Unique",
+      "latin_meaning": "Bat",
+      "rarity": "Epic",
+      "description": "Features bat-like wings instead of traditional feathers."
+    },
+    {
+      "name": "Dominus Aureus",
+      "release_date": "July 20, 2015",
+      "original_price": 50000,
+      "stock": 26,
+      "latin_meaning": "Golden",
+      "rarity": "Legendary",
+      "description": "Pure gold version released for the 5th anniversary of the series."
+    },
+    {
+      "name": "Dominus Pittacium",
+      "release_date": "March 20, 2016",
+      "original_price": 5000000,
+      "stock": 3,
+      "latin_meaning": "Ticket / Label",
+      "rarity": "Extremely Rare",
+      "description": "Based on a paper/parchment theme. Only 3 exist in the world."
+    },
+    {
+      "name": "Dominus Rex",
+      "release_date": "January 20, 2017",
+      "original_price": 75000,
+      "stock": "Limited Unique",
+      "latin_meaning": "King",
+      "rarity": "Epic",
+      "description": "Royal themed with teal and gold accents."
+    },
+    {
+      "name": "Dominus Praefectus",
+      "release_date": "January 20, 2018",
+      "original_price": 188000,
+      "stock": "Limited Unique",
+      "latin_meaning": "Prefect / Overseer",
+      "rarity": "Epic",
+      "description": "Dark grey and white design inspired by Roman commanders."
+    }
+  ]
+}
